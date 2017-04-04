@@ -1,0 +1,25 @@
+### ADD ###
+- Notifications
+- Backpack includes souls and shapes are collected
+- Soul chestbox shop dialog
+- Dino queen animations regarding rescuing dino friends and kidnapping other dino friends
+- Tap to display soul and shape info in the dinosaur dialog
+- Watch video to freely revive
+- Add rating dialog
+### CHANGE ###
+- Lock the higher levels if not yet rescue the previous dinos
+- Adjust position of egg count gauge to right a bit
+- Fade level screen header while tap to shoot
+- Make the “game over” animation consistent for 3 mode
+- Adjust level difficulty
+- Free 3 first reviving
+- Adjust bomb price to 150 coins
+- LiftUp power-up moves up 2 lines
+- Reviving function moves up 2 lines
+### FIX ###
+- Hide the right items(bulb, 2,3,4X) in level scene when level is completed
+- Score overlaped in level scene
+- Egg matrix shows improperly in iPad
+- Animation of tutorial regarding shoot waggle eggs
+- Make chest images consistent
+- Performance improvements and bug fixes

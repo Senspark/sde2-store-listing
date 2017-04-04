@@ -1,0 +1,20 @@
+### THÊM ###
+- Thông báo
+- Túi đựng linh hồn và hình đã thu thập
+- Cửa hàng rương linh hồn
+- Hoạt hình về khủng long chúa khi giải cứu khủng long bạn và bắt khủng long bạn
+- Hiển thị thêm thông tin về linh hồn và hình ở hộp thoại khủng long
+- Xem video để hồi sinh miễn phí
+### THAY ĐỔI ###
+- Khoá các màn cao nếu chưa giải cứu các khủng long cấp thấp
+- Điều chỉnh thanh đếm trứng bắn ở màn hình chơi
+- Làm mờ thanh thông tin trên đầu khi nhấn bắn
+- Làm hoạt hình "game over" giống nhau ở 3 chế độ
+- Điều chỉnh độ khó của màn chơi
+- Miễn phí 3 lần hồi sinh đầu
+- Điều chỉnh giá bom lên 150 xu
+- Vât phẩm nâng lên sẽ nâng lên 2 dòng
+- Chức năng hồi sinh sẽ nâng lên 2 dòng
+### SỬA ###
+- Ẩn các vật (đèn, 2X, 3X, 4X) khi hoàn thành màn
+- Cải thiện hiệu suất và sửa nhiều lỗi
